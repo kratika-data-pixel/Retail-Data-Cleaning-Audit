@@ -62,7 +62,16 @@ Clean and reliable data is essential for accurate business analysis. This projec
 ## Project Outcome
 
 This project showcases my ability to identify data quality issues, clean raw datasets, validate information, and prepare professional audit reports using Microsoft Excel.
+## Project Preview
 
+### 1. Raw Dataset
+![Raw Dataset](Screenshot1.png)
+
+### 2. Cleaned Dataset
+![Cleaned Dataset](Screenshot2.png)
+
+### 3. Data Quality Audit Report
+![Audit Report](Screenshot3.png)
 ## Repository Contents
 
 - Retail_Final_Audit.xlsx
