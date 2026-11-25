@@ -68,7 +68,7 @@ This project showcases my ability to identify data quality issues, clean raw dat
 ![Raw Dataset](Raw%20data.png)
 
 ### 2. Cleaned Dataset
-![Cleaned Dataset](Clean%20data.png)
+![Cleaned Dataset](clean%20data.png)
 
 ### 3. Audit Report
 ![Audit Report](Clean%20data%20report.png)
