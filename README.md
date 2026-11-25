@@ -65,13 +65,13 @@ This project showcases my ability to identify data quality issues, clean raw dat
 ## Project Preview
 
 ### 1. Raw Dataset
-![Raw Dataset](Screenshot1.png)
+![Raw Dataset](Raw_data.png)
 
 ### 2. Cleaned Dataset
-![Cleaned Dataset](Screenshot2.png)
+![Cleaned Dataset](clean_data.png)
 
 ### 3. Data Quality Audit Report
-![Audit Report](Screenshot3.png)
+![Audit Report](Clean_data_report.png)
 ## Repository Contents
 
 - Retail_Final_Audit.xlsx
